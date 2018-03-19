@@ -14,6 +14,10 @@ of work, to make work well and be secure.
 
 It uses a Mysql database, and an external library
 to work properly, the library is PhpWord.
+Another library which I have begun using is fpdf to
+generate pdf format reports, however this is
+not essential as the pdf reporting section is
+just beginning.
 
 I'll expand this document as I have time.
 
